@@ -97,5 +97,3 @@ Raw Dataset/
 ---
 
 
-Place your dataset in Kaggle under:
-
